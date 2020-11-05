@@ -1,0 +1,4 @@
+#Fri Oct 30 20:31:11 PKT 2020
+base.0=/home/mohsin/react-native/Test/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
